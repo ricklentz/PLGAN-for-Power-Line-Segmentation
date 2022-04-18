@@ -16,7 +16,6 @@ This is the official repository of paper [PLGAN: Generative Adversarial Networks
 * MASSACHUSETTS Roads Dataset:   https://www.cs.toronto.edu/~vmnih/data/ 
 ## Results:
 
-Average Precision for Different Deep Learning Models on TTPLA is reported in the following table
 ![results](results_PL.png)
 ![results](results.png)
 
