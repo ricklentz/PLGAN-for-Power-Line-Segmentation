@@ -1,6 +1,7 @@
 # PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Images
 
-PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Images. This is the official repository of paper [PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Images](https://arxiv.org/abs/2204.07243). 
+PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Images. 
+This is the official repository of paper [PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Images](https://arxiv.org/abs/2204.07243). (under submission)
 
 ![Screenshot](PLGAN.png)
 
