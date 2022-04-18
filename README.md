@@ -10,7 +10,7 @@ This is the official repository of paper [PLGAN: Generative Adversarial Networks
 * A new loss function is introduced in the modified Hough transform parameter space and then combined to adversarial, geometry, and cross entropy losses to enhance PL segmentation performance.
 * The proposed PLGAN significantly promotes the state-of-the-art performance of PL segmentation on the public TTPLA dataset. To show the generality of the proposed method, we also apply PLGAN to the Massachusetts Roads dataset for segmenting roads, which are also long and thin as PLs.
 
-#Datasets:
+## Datasets:
 * TTPLA Power Line Dataset: 
    https://github.com/R3ab/ttpla_dataset
 * MASSACHUSETTS Roads Dataset:   https://www.cs.toronto.edu/~vmnih/data/ 
