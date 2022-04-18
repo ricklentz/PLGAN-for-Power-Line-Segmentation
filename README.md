@@ -2,7 +2,7 @@
 
 PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Images. This is the official repository of paper [PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Images](https://arxiv.org/abs/2204.07243). 
 
-![Screenshot](figs/plgan.png)
+![Screenshot](plgan.png)
 
 ## Main contributions are summarized as below:
 * A novel PLGAN network is proposed to segment very thin PLs from aerial images with complex backgrounds. To the best of our knowledge, this is the first generative adversarial network (GAN) developed for line structure segmentation. The novelty comes from using the PL-highlighted images for discrimination and introducing the semantic decoder with the most representative embedding vectors as the input to generate semantic images.
@@ -16,8 +16,8 @@ PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Ima
 ## Results:
 
 Average Precision for Different Deep Learning Models on TTPLA is reported in the following table
-![results](figs/results_PL.png)
-![results](figs/results.png)
+![results](results_PL.png)
+![results](results.png)
 
 
 ## Code Implementation:
