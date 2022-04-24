@@ -25,11 +25,11 @@ This is the official repository of paper [PLGAN: Generative Adversarial Networks
    
 ## Citation:
 ```
-@inproceedings{plgan-2022,
-  author    = {Rabab Abdelfattah, Xiaofeng Wang, Song Wang},
-  title     = {PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Images},
-  booktitle = {arxiv},
-  year      = {2022},
+@article{abdelfattah2022plgan,
+  title={PLGAN: Generative Adversarial Networks for Power-Line Segmentation in Aerial Images},
+  author={Abdelfattah, Rabab and Wang, Xiaofeng and Wang, Song},
+  journal={arXiv preprint arXiv:2204.07243},
+  year={2022}
 }
 ```
 ## Contact:
